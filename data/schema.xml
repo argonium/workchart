@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<schemas>
+  <schema id="Category1">
+    <node id="DB1">
+      <url>jdbc:postgresql://srvr1:5432/db1?schema1</url>
+      <id>user1</id>
+      <pw>pw1</pw>
+    </node>
+    <node id="DB2">
+      <url>jdbc:postgresql://srvr2:5432/db2?schema2</url>
+      <id>user2</id>
+      <pw>pw2</pw>
+    </node>
+  </schema>
+</schemas> 
+
